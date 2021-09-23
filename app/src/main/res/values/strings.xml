@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExoPlayerErrorCodecSample</string>
+
+    <string name="channel_exo_player_issue">Channel exo player issue</string>
 </resources>
